@@ -1,1 +1,24 @@
-這裡是0303演講紀錄
+書報討論
+演講題目	Mini/Micro LEDs的設計挑戰與應用
+演講者	國立中正大學機械工程系葉志庭 副教授
+日期	20260303
+筆記
+Content
+1.	Introdution to Mini/Micro LED and manufacturing process
+2.	Applications of Mini/Micro LED and Advanced design of Mini LED backlight
+3.	Design of Micro LED Displays for enhancing EQE, viewing angle, and color purity
+4.	AR/VR and CPO Industry Information Sharing
+5.	Summary
+  a.外界在定義Mini or Micro的螢幕是使用螢幕分辨率去做定義，但教授自己指出只要人眼能夠看出來的大小去做定義
+  b.在定義螢幕大小時有分為”DDI 與 PPI”，在業界與教授的認為是PPI是比較客觀的 
+  c.在每種螢幕中都會有各種不同的是用場景，如LCD與OLED以及Micro LED
+  d.OLED比較適合在手機螢幕
+  e.人眼能看到的大小是25um
+  f.LCD在技術上面會用背光，是因為LCD本身不會
+  g.Principle技術上會用比少顆粒，增加凹凸面讓光的折射可以變多，減少顆粒使用
+  h.製造螢幕跟晶片製造很類似，製造製程中，會先長N的材質再長P的材質，因為P型材料容易發燙所以會先長N型材料
+心得
+今日第一次上書報討論，大四的我正在努力地看著前面正在演講的教授努力的學習他們，如何擁有好的自信能更在前面
+好好地說話，葉教授一開場提到就算是科大的學生，只要夠努力還是有機會能夠翻身的，並且述說各種面板的差別以及
+現在的應用場景，介紹了分辨的方式以及設計上的技術，並額外補充了晶片製造的方式，讓我印象深刻。
+
