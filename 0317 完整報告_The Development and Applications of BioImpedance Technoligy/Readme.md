@@ -32,9 +32,11 @@
  - 生物組織的電特性根據電力來源分為主動或被動。當生物組織對外部電刺激做出反應時，這樣的反應是被動的。
  - 在生物電阻阻抗分析(BIA)測試期間需要考慮多個因素，包括人體測量的參數，如果發生任何營養不良或脫水，測試結果會失真
  - 計算的方法
-    - ![image](https://hackmd.io/_uploads/r1koMMdc-g.png)
+    - <img width="1497" height="310" alt="image" src="https://github.com/user-attachments/assets/7a50a8d4-a33c-4bf9-90f2-8ff6f9b3d2f6" />
+
       - 生物阻抗是一個複數，由電阻值 R（實部）和電抗值 Xc（虛部）（主要是由於細胞膜產生的電容）組成。阻抗也可以表示為一個向量，模塊 | Z | 和相位角φ。相位角在確定身體的組成方面起著基本作用。 
-    - ![image](https://hackmd.io/_uploads/ry3sMG_5Ze.png)
+    - <img width="1553" height="300" alt="image" src="https://github.com/user-attachments/assets/41acc3f3-9c22-452f-9d38-7083da6f6201" />
+
       - 橫截面積為 S 和長度為 l 的導體的電阻 R 和距離為 d 的表面積為 S 的平板平行板電容器的電容 C 
     - 這樣計算的方式大部分都與物理參數相關
     - 人體組成
