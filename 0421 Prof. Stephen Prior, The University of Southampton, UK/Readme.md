@@ -1,6 +1,6 @@
-* 日期: 2026/04/21
-* 題目:Developing havy-lift hybrid drones for contested logistics
-* 演講者:Prof. Stephen Prior, The University of Southampton, UK
+# 日期: 2026/04/21
+# 題目:Developing havy-lift hybrid drones for contested logistics
+# 演講者:Prof. Stephen Prior, The University of Southampton, UK
 
 筆記:
 1. 講述到當前烏克蘭與俄羅斯的戰爭有用到許多無人機的案例
